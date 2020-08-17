@@ -1,6 +1,6 @@
 *{padding:0; margin: 0;};
 
-body{font-family: 'Montserrat'; overflow: hidden;}
+body{font-family: 'Montserrat'; overflow-x: hidden;}
 
 .flex-center{
     display: flex;
